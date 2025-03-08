@@ -1,6 +1,6 @@
 import React from "react";
 import thebook from "../assets/thebook.jpeg";
-const NoCourses = () => {
+const CreateFirst = () => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-purple-50 px-4">
       <img
@@ -16,4 +16,4 @@ const NoCourses = () => {
   );
 };
 
-export default NoCourses;
+export default CreateFirst;
